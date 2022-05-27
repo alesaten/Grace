@@ -1,0 +1,13 @@
+C:\Users\user7\source\repos\GraceApp\GraceApp\bin\Debug\GraceApp.exe.config
+C:\Users\user7\source\repos\GraceApp\GraceApp\bin\Debug\GraceApp.exe
+C:\Users\user7\source\repos\GraceApp\GraceApp\bin\Debug\GraceApp.pdb
+C:\Users\user7\source\repos\GraceApp\GraceApp\obj\Debug\GraceApp.csproj.AssemblyReference.cache
+C:\Users\user7\source\repos\GraceApp\GraceApp\obj\Debug\GraceApp.Properties.Resources.resources
+C:\Users\user7\source\repos\GraceApp\GraceApp\obj\Debug\GraceApp.csproj.GenerateResource.cache
+C:\Users\user7\source\repos\GraceApp\GraceApp\obj\Debug\GraceApp.csproj.CoreCompileInputs.cache
+C:\Users\user7\source\repos\GraceApp\GraceApp\obj\Debug\GraceApp.exe
+C:\Users\user7\source\repos\GraceApp\GraceApp\obj\Debug\GraceApp.pdb
+C:\Users\user7\source\repos\GraceApp\GraceApp\obj\Debug\GraceApp.LogIn_Form.resources
+C:\Users\user7\source\repos\GraceApp\GraceApp\obj\Debug\GraceApp.AdministratorForm.resources
+C:\Users\user7\source\repos\GraceApp\GraceApp\obj\Debug\GraceApp.ChiefOfficerForm.resources
+C:\Users\user7\source\repos\GraceApp\GraceApp\obj\Debug\GraceApp.SellerForm.resources
